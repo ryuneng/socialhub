@@ -18,8 +18,7 @@
 <br/>
 
 ## 📋 서비스 소개
-
-해시태그를 기반으로 `인스타그램`, `스레드`, `페이스북`, `트위터(X)` 등
+- 해시태그를 기반으로 `인스타그램`, `스레드`, `페이스북`, `트위터(X)` 등
 복수의 SNS에 게시된 게시물 중 해시태그가 포함된 게시물들을 하나의 서비스에서 확인할 수 있는
 **통합 Feed 어플리케이션의 API 서버**입니다.
 
@@ -37,9 +36,9 @@
 
 ### 담당 업무 소스 코드
 1. <a href="https://github.com/ryuneng/socialhub/blob/dev/src/main/java/com/allclear/socialhub/post/controller/PostController.java">Controller 코드 보기</a>
-2. <a href="https://github.com/wanted-all-clear/socialhub/blob/dev/src/main/java/com/allclear/socialhub/post/service/PostServiceImpl.java">Service 코드 보기</a>
-3. <a href="https://github.com/wanted-all-clear/socialhub/blob/dev/src/main/java/com/allclear/socialhub/post/repository/querydsl/PostRepositoryImpl.java">Repository 코드 보기</a>
-4. <a href="https://github.com/wanted-all-clear/socialhub/blob/dev/src/test/java/com/allclear/socialhub/post/controller/PostControllerTest.java">주요 테스트 코드 보기</a>
+2. <a href="https://github.com/ryuneng/socialhub/blob/dev/src/main/java/com/allclear/socialhub/post/service/PostServiceImpl.java">Service 코드 보기</a>
+3. <a href="https://github.com/ryuneng/socialhub/blob/dev/src/main/java/com/allclear/socialhub/post/repository/querydsl/PostRepositoryImpl.java">Repository 코드 보기</a>
+4. <a href="https://github.com/ryuneng/socialhub/blob/dev/src/test/java/com/allclear/socialhub/post/controller/PostControllerTest.java">주요 테스트 코드 보기</a>
 
 <br>
 
@@ -99,7 +98,7 @@
 <details>
 <summary>개발일정 관리</summary>
 <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/71d9340d-98a7-4ffc-aa05-05367b8544c6" width="70%">
+    <img src="https://github.com/user-attachments/assets/71d9340d-98a7-4ffc-aa05-05367b8544c6" width="90%">
     <div style="flex justify-content-center">
         <img src="https://github.com/user-attachments/assets/589e3eee-997d-48a8-adb9-18fb3dd9045a" align="center" width="40%">  
         <img src="https://github.com/user-attachments/assets/11a9b040-a855-4533-bbe8-d3cc63240b01" align="center" width="40%">  
@@ -114,8 +113,8 @@
 <details>
 <summary>소통 및 PR 알림 확인</summary>
 <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/6a051e1d-58d4-4779-a7b8-1a1b6725671f" width="90%">
-    <img src="https://github.com/user-attachments/assets/16f92c8c-6b92-45b7-8d83-95f1d47d0fb1" width="60%">
+    <img src="https://github.com/user-attachments/assets/6a051e1d-58d4-4779-a7b8-1a1b6725671f">
+    <img src="https://github.com/user-attachments/assets/16f92c8c-6b92-45b7-8d83-95f1d47d0fb1" width="50%">
 </div>
 </details>
 
